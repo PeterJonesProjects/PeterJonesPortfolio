@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Peter Jones - Home</title>
-    <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/</link>
+    <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/</link>
     <description>Recent content in Projects on Peter Jones - Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://PeterJonesProjects.github.io/Portfolio_DS/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Time Series Analysis &amp; Forecasting of Monthly Product Sales</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj5.time-series/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj5.time-series/</link>
       <pubDate>Thu, 22 Dec 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj5.time-series/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj5.time-series/</guid>
       <description>This project aimed to analyze and forecast monthly sales data for a product over a period of ten years. The primary goal was to identify the best statistical model for predicting future sales, based on the historical sales data. The project also included solving two mathematical questions related to time series theory, which added an academic component to the project.
 The project utilized the R programming language, specifically the dlm library, to perform the data analysis and modeling.</description>
     </item>
     
     <item>
       <title>Classification of Breast Tissue Samples using Statistical Methods</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj3.breastcancer/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj3.breastcancer/</link>
       <pubDate>Fri, 04 Nov 2022 11:14:48 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj3.breastcancer/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj3.breastcancer/</guid>
       <description>In this project, I aimed to develop classifiers for predicting cancer presence in breast tissue samples using cytological characteristics data. To achieve this objective, I employed statistical methods such as logistic regression and linear discriminant analysis (LDA) to build multiple classifiers. The evaluation of these classifiers was done through cross-validation to compare their performance. I used the R programming language and major libraries such as bestglm, glmnet, and MASS to develop these classifiers.</description>
     </item>
     
     <item>
       <title>Application of Learning Analytics to &#39;Massive Online Open Course&#39; Data</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj4.learnanalytics/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj4.learnanalytics/</link>
       <pubDate>Fri, 04 Nov 2022 11:13:32 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj4.learnanalytics/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj4.learnanalytics/</guid>
       <description>The project discussed here involved applying learning analytics to the data collected from multiple runs of a Massive Open Online Course (MOOC). The aim was to gain insights that could help course providers make improvements to the course content and delivery. The project followed the CRISP-DM process for data mining, which involves a cyclical approach to data analysis that includes six phases: business understanding, data understanding, data preparation, modeling, evaluation, and deployment.</description>
     </item>
     
     <item>
       <title>Visualisation of Epidemic Data</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj1.powerbi/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj1.powerbi/</link>
       <pubDate>Fri, 21 Oct 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj1.powerbi/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj1.powerbi/</guid>
       <description>Project goal: Visualizing the impact of an airborne disease outbreak through simulations. Data: Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics. Project objective: Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations. Visualization tool: Power BI. Project outcome: Effective visualization of the outbreak impact and uncertainty.</description>
     </item>
     
     <item>
       <title>Stock Management &amp; Billing Application</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj2.stock/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj2.stock/</link>
       <pubDate>Fri, 21 Oct 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj2.stock/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj2.stock/</guid>
       <description>This stock management system is a software designed to manage inventory and produce receipts. It is written in Python and utilizes major libraries such as abc, unittest, and os. The system reads in a CSV file of items and their details and converts it to a list. The application has six functions, which include adding, editing, and deleting item details such as name, category, perishable, stock, and sell price. It also has a full stock list, which displays all available items and their details.</description>
     </item>
     
     <item>
       <title>Bayesian infernce project (Open Project)</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj7.bayes-proj/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj7.bayes-proj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj7.bayes-proj/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj7.bayes-proj/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Engineering for AI (Open project)</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj8.eng4ai/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj8.eng4ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj8.eng4ai/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj8.eng4ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning (Open Project)</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj6.machinelearning/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj6.machinelearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj6.machinelearning/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj6.machinelearning/</guid>
       <description>coming soon</description>
     </item>
     
