@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PowerBI on Peter Jones - Home</title>
+    <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/powerbi/</link>
+    <description>Recent content in PowerBI on Peter Jones - Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Oct 2022 11:00:59 -0400</lastBuildDate><atom:link href="https://PeterJonesProjects.github.io/Portfolio_DS/tags/powerbi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualisation of Epidemic Data</title>
+      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj1.powerbi/</link>
+      <pubDate>Fri, 21 Oct 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj1.powerbi/</guid>
+      <description>Project goal: Visualizing the impact of an airborne disease outbreak through simulations. Data: Results from simulations of the outbreak area modeled as a grid of cells, including cell population, infected count, and uncertainty statistics. Project objective: Creating interactive dashboards to visualize the uncertainty and impact of the outbreak for a single simulation and arbitrary number of simulations. Visualization tool: Power BI. Project outcome: Effective visualization of the outbreak impact and uncertainty.</description>
+    </item>
+    
+  </channel>
+</rss>
