@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Peter Jones - Home</title>
-    <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/</link>
+    <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/</link>
     <description>Recent content in Tags on Peter Jones - Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Dec 2022 11:15:58 -0400</lastBuildDate><atom:link href="https://PeterJonesProjects.github.io/Portfolio_DS/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>R</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/r/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/r/</link>
       <pubDate>Thu, 22 Dec 2022 11:15:58 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/tags/r/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PowerBI</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/powerbi/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/powerbi/</link>
       <pubDate>Fri, 21 Oct 2022 11:00:59 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/tags/powerbi/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/powerbi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/python/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/python/</link>
       <pubDate>Fri, 21 Oct 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/tags/python/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataBricks</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/databricks/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/databricks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/tags/databricks/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/databricks/</guid>
       <description></description>
     </item>
     
