@@ -5,50 +5,81 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Dissertation</title>
   <link rel="stylesheet" href="../ananke/css/main.min.css">
+  <style>
+    #timeline {
+      position: relative;
+      margin-top: 40px;
+      margin-bottom: 40px;
+    }
+
+    .timeline-line {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: 50%;
+      height: 4px;
+      background-color: #000;
+    }
+
+    .timeline-entry {
+      position: relative;
+      display: inline-block;
+      margin-right: 40px;
+    }
+
+    .entry-point {
+      position: absolute;
+      top: 50%;
+      margin-top: -8px;
+      width: 16px;
+      height: 16px;
+      background-color: #000;
+      border-radius: 50%;
+    }
+
+    .entry-annotation {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      margin-top: 20px;
+    }
+  </style>
 </head>
 <body>
-  <!-- Your page content will go here -->
-  
   <header>
-  <h1>Dissertation</h1>
-  <p>Initial description of your dissertation topic goes here.</p>
-</header>
+    <h1>Dissertation</h1>
+    <p>Initial description of your dissertation topic goes here.</p>
+  </header>
 
-<section>
-  <h2>About</h2>
-  <p>About section content for your dissertation goes here.</p>
-</section>
-
-  
   <section>
-  <h2>Timeline</h2>
-  <div id="timeline">
-    <div class="timeline-line"></div>
-    <!-- Blog entries and their annotations will be added here -->
-    
-    <div class="timeline-entry">
-  <div class="entry-point"></div>
-  <div class="entry-annotation">
-    <h3>Blog Entry Title 1</h3>
-    <p>Date: Most recent date</p>
-    <p>Blog entry content goes here.</p>
-  </div>
-</div>
+    <h2>About</h2>
+    <p>About section content for your dissertation goes here.</p>
+  </section>
 
-<div class="timeline-entry">
-  <div class="entry-point"></div>
-  <div class="entry-annotation">
-    <h3>Blog Entry Title 2</h3>
-    <p>Date: Second most recent date</p>
-    <p>Blog entry content goes here.</p>
-  </div>
-</div>
+  <section>
+    <h2>Timeline</h2>
+    <div id="timeline">
+      <div class="timeline-line"></div>
+      <!-- Blog entries and their annotations will be added here -->
 
-    
-    
-  </div>
-</section>
+      <div class="timeline-entry">
+        <div class="entry-point"></div>
+        <div class="entry-annotation">
+          <h3>Blog Entry Title 1</h3>
+          <p>Date: Most recent date</p>
+          <p>Blog entry content goes here.</p>
+        </div>
+      </div>
 
+      <div class="timeline-entry">
+        <div class="entry-point"></div>
+        <div class="entry-annotation">
+          <h3>Blog Entry Title 2</h3>
+          <p>Date: Second most recent date</p>
+          <p>Blog entry content goes here.</p>
+        </div>
+      </div>
+    </div>
+  </section>
 </body>
 </html>
-
