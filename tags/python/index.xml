@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python on Peter Jones - Home</title>
-    <link>https://PeterJonesProjects.github.io/Portfolio_DS/tags/python/</link>
+    <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/python/</link>
     <description>Recent content in Python on Peter Jones - Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://PeterJonesProjects.github.io/Portfolio_DS/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Oct 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://PeterJonesProjects.github.io/PeterJonesPortfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stock Management &amp; Billing Application</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj2.stock/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj2.stock/</link>
       <pubDate>Fri, 21 Oct 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj2.stock/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj2.stock/</guid>
       <description>This stock management system is a software designed to manage inventory and produce receipts. It is written in Python and utilizes major libraries such as abc, unittest, and os. The system reads in a CSV file of items and their details and converts it to a list. The application has six functions, which include adding, editing, and deleting item details such as name, category, perishable, stock, and sell price. It also has a full stock list, which displays all available items and their details.</description>
     </item>
     
     <item>
       <title>Engineering for AI (Open project)</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj8.eng4ai/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj8.eng4ai/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj8.eng4ai/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj8.eng4ai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Machine learning (Open Project)</title>
-      <link>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj6.machinelearning/</link>
+      <link>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj6.machinelearning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://PeterJonesProjects.github.io/Portfolio_DS/post/proj6.machinelearning/</guid>
+      <guid>https://PeterJonesProjects.github.io/PeterJonesPortfolio/post/proj6.machinelearning/</guid>
       <description>coming soon</description>
     </item>
     
